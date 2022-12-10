@@ -1,0 +1,8 @@
+Enter no.of production: 3
+A->A*B   
+B->C
+C->d
+A -> 
+B -> C
+C -> d
+A' -> * | B | A' | e

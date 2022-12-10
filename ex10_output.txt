@@ -1,0 +1,6 @@
+INPUT THE EXPRESSION: (a*a+a)
+PREFIX: +*aaa
+POSTFIX: aa*a+
+### THREE ADDRESS CODE GENERATION ###
+t1 := a * a
+t2 := t1 + a
